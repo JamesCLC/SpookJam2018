@@ -1,0 +1,1034 @@
+﻿Log file open, 11/04/18 12:38:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: HorrorRunner
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-386144018) SRandInit(-386144018).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.196291
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/HoudiniEngine/Binaries/Win64/UE4Editor-HoudiniEngineRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/HoudiniEngine/Binaries/Win64/UE4Editor-HoudiniEngineEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.901s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-B6S4E87 (172.16.10.53:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/(D)/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.04-12.38.27:082][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.04-12.38.27:082][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.04-12.38.27:100][  0]LogInit: Computer: DESKTOP-B6S4E87
+[2018.11.04-12.38.27:101][  0]LogInit: User: Gabe
+[2018.11.04-12.38.27:101][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.04-12.38.27:101][  0]LogInit: High frequency timer resolution =2.249998 MHz
+[2018.11.04-12.38.27:101][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.04-12.38.27:101][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.04-12.38.27:101][  0]LogMemory: Process Physical Memory: 273.02 MB used, 273.02 MB peak
+[2018.11.04-12.38.27:101][  0]LogMemory: Process Virtual Memory: 268.32 MB used, 268.32 MB peak
+[2018.11.04-12.38.27:101][  0]LogMemory: Physical Memory: 5401.44 MB used,  2686.67 MB free, 8088.11 MB total
+[2018.11.04-12.38.27:101][  0]LogMemory: Virtual Memory: 4788.22 MB used,  2686.67 MB free, 134217728.00 MB total
+[2018.11.04-12.38.27:132][  0]LogInit: Using OS detected language (en-GB).
+[2018.11.04-12.38.27:132][  0]LogInit: Using OS detected locale (en-GB).
+[2018.11.04-12.38.27:138][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.11.04-12.38.27:723][  0]LogStreaming: Display: Took  0.592s to EndInitTextLocalization.
+[2018.11.04-12.38.27:723][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.04-12.38.27:750][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.04-12.38.27:750][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.04-12.38.28:227][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.04-12.38.28:286][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2018.11.04-12.38.28:286][  0]LogD3D11RHI:       2010/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.04-12.38.28:297][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.11.04-12.38.28:297][  0]LogD3D11RHI:       128/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.04-12.38.28:299][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.04-12.38.28:299][  0]LogD3D11RHI:       0/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.04-12.38.28:299][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.04-12.38.28:321][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.04-12.38.28:321][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2018.11.04-12.38.28:321][  0]LogWindows: EnumDisplayDevices:
+[2018.11.04-12.38.28:322][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.11.04-12.38.28:322][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.04-12.38.28:322][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.04-12.38.28:322][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.04-12.38.28:322][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2018.11.04-12.38.28:322][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.04-12.38.28:322][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.04-12.38.28:322][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2018.11.04-12.38.28:362][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.04-12.38.28:363][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.04-12.38.28:363][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.04-12.38.28:381][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.04-12.38.28:382][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Intermediate/Shaders/WorkingDirectory/5672/).
+[2018.11.04-12.38.28:382][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gabe/AppData/Local/Temp/UnrealShaderWorkingDir/0F60D79D40AC1650839E5EB540BF0CF7/'.
+[2018.11.04-12.38.28:663][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.04-12.38.28:685][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.04-12.38.28:702][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.04-12.38.28:719][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.04-12.38.28:736][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.04-12.38.28:754][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.04-12.38.28:771][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.04-12.38.28:788][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.04-12.38.28:796][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.04-12.38.28:812][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.04-12.38.28:827][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.04-12.38.28:842][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.04-12.38.28:856][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.11.04-12.38.28:872][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.04-12.38.28:887][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.04-12.38.28:918][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.04-12.38.28:918][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.04-12.38.28:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-12.38.28:937][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.04-12.38.28:979][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.04-12.38.28:994][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.04-12.38.29:010][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.04-12.38.29:024][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.04-12.38.29:040][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.04-12.38.29:056][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.04-12.38.29:056][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.04-12.38.29:237][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.04-12.38.29:237][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.04-12.38.29:237][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.04-12.38.30:111][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.04-12.38.30:215][  0]LogDerivedDataCache: Loaded boot cache 0.10s 74MB C:/Users/Gabe/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.04-12.38.30:215][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gabe/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.11.04-12.38.30:216][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.04-12.38.30:216][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.04-12.38.30:216][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.04-12.38.30:216][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.04-12.38.30:235][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.04-12.38.30:249][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gabe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.04-12.38.30:249][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.04-12.38.30:249][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.04-12.38.30:263][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.04-12.38.30:263][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.04-12.38.30:264][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.04-12.38.30:264][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.04-12.38.30:473][  0]LogAssetRegistry: FAssetRegistry took 0.0277 seconds to start up
+[2018.11.04-12.38.30:866][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.04-12.38.31:067][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.04-12.38.31:070][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.04-12.38.31:070][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.04-12.38.31:070][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.04-12.38.31:070][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.04-12.38.31:070][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.04-12.38.31:126][  0]LogNetVersion: HorrorRunner , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 310788948)
+[2018.11.04-12.38.31:783][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.130841 seconds
+[2018.11.04-12.38.31:790][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.11.04-12.38.31:790][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.11.04-12.38.31:790][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.04-12.38.34:211][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.04-12.38.34:255][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.04-12.38.34:899][  0]SourceControl: Source control is disabled
+[2018.11.04-12.38.34:900][  0]SourceControl: Source control is disabled
+[2018.11.04-12.38.34:936][  0]SourceControl: Source control is disabled
+[2018.11.04-12.38.34:970][  0]SourceControl: Source control is disabled
+[2018.11.04-12.38.35:820][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.04-12.38.36:063][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2018.11.04-12.38.36:063][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path C:\Program Files\Side Effects Software\Houdini 16.5.536/bin
+[2018.11.04-12.38.36:064][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.04-12.38.36:068][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.04-12.38.36:074][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.04-12.38.36:188][  0]LogHoudiniEngine: Starting up the Houdini Engine API module failed: Already Initialized
+[2018.11.04-12.38.36:268][  0]LogOcInput: OculusInput pre-init called
+[2018.11.04-12.38.36:437][  0]LogEngine: Initializing Engine...
+[2018.11.04-12.38.36:440][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.04-12.38.36:442][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.04-12.38.36:442][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.04-12.38.36:750][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.04-12.38.36:833][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.04-12.38.36:931][  0]LogInit: FAudioDevice initialized.
+[2018.11.04-12.38.37:077][  0]LogDerivedDataCache: Saved boot cache 0.15s 74MB C:/Users/Gabe/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.04-12.38.37:089][  0]LogInit: Texture streaming: Enabled
+[2018.11.04-12.38.37:107][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.04-12.38.37:122][  0]LogInit: Transaction tracking system initialized
+[2018.11.04-12.38.37:592][  0]BlueprintLog: New page: Editor Load
+[2018.11.04-12.38.39:153][  0]LogConfig: Warning: Failed to saved backup for config[LocalizationServiceSettings]
+[2018.11.04-12.38.39:155][  0]LocalizationService: Localization service is disabled
+[2018.11.04-12.38.40:395][  0]LogConsoleResponse: Display: 
+[2018.11.04-12.38.42:076][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/' took 0.05s
+[2018.11.04-12.38.42:076][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.04-12.38.42:076][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.04-12.38.42:076][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.04-12.38.42:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.04-12.38.42:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.04-12.38.45:548][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2018.11.04-12.38.46:717][  0]SourceControl: Source control is disabled
+[2018.11.04-12.38.46:780][  0]Cmd: MAP LOAD FILE="C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.04-12.38.46:811][  0]LightingResults: New page: Lighting Build
+[2018.11.04-12.38.46:916][  0]MapCheck: New page: Map Check
+[2018.11.04-12.38.46:916][  0]LightingResults: New page: Lighting Build
+[2018.11.04-12.38.47:468][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018785fdafc0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.11.04-12.38.47:537][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018785fdafc0, Size=72
+[2018.11.04-12.38.47:537][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187eed827f0, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.11.04-12.38.47:599][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187f7536cf0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.11.04-12.38.47:609][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187f751d440, Size=144, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.11.04-12.38.47:610][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018786335210, Size=40, Default__FirstPersonGameMode_C Function /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C:ExecuteUbergraph_FirstPersonGameMode
+[2018.11.04-12.38.47:729][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001878e17d0c0, Size=224, Default__HallSegment_Base_C Function /Game/FirstPersonBP/Blueprints/HallSegment_Base.HallSegment_Base_C:ExecuteUbergraph_HallSegment_Base
+[2018.11.04-12.38.47:736][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001878e15de00, Size=464, Default__HallSegment_Door_C Function /Game/FirstPersonBP/Blueprints/HallSegment_Door.HallSegment_Door_C:ExecuteUbergraph_HallSegment_Door
+[2018.11.04-12.38.47:742][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001878e12f300, Size=64, Default__GameOverWidget_C Function /Game/GameOverWidget.GameOverWidget_C:ExecuteUbergraph_GameOverWidget
+[2018.11.04-12.38.47:779][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001878e15c400, Size=496, Default__Monster_C Function /Game/FirstPersonBP/Blueprints/Monster.Monster_C:ExecuteUbergraph_Monster
+[2018.11.04-12.38.47:785][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018794b3b880, Size=72, Default__MonsterBar_C Function /Game/MonsterBar.MonsterBar_C:ExecuteUbergraph_MonsterBar
+[2018.11.04-12.38.47:792][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187f7516a20, Size=104, Default__RoomWidget_C Function /Game/RoomWidget.RoomWidget_C:ExecuteUbergraph_RoomWidget
+[2018.11.04-12.38.47:822][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187f751b5f0, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.11.04-12.38.47:836][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018794b52b00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.11.04-12.38.48:026][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018794b52b00, Size=256
+[2018.11.04-12.38.48:026][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018794b52b00, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_4:ExecuteUbergraph_FirstPersonProjectile
+[2018.11.04-12.38.48:027][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001878e17d0c0, Size=224
+[2018.11.04-12.38.48:027][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018794a1af60, Size=224, Default__HallSegment_Base_C Function /Engine/Transient.REINST_HallSegment_Base_C_5:ExecuteUbergraph_HallSegment_Base
+[2018.11.04-12.38.48:028][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001878e15de00, Size=464
+[2018.11.04-12.38.48:028][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018794b48400, Size=464, Default__HallSegment_Door_C Function /Engine/Transient.REINST_HallSegment_Door_C_6:ExecuteUbergraph_HallSegment_Door
+[2018.11.04-12.38.48:028][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001878e15c400, Size=496
+[2018.11.04-12.38.48:028][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018794b48200, Size=496, Default__Monster_C Function /Engine/Transient.REINST_Monster_C_7:ExecuteUbergraph_Monster
+[2018.11.04-12.38.48:029][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000187f751b5f0, Size=52
+[2018.11.04-12.38.48:029][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187f751b5f0, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_8:ExecuteUbergraph_FirstPersonHUD
+[2018.11.04-12.38.48:029][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000187f751d440, Size=144
+[2018.11.04-12.38.48:029][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001878e99da80, Size=144, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_9:ExecuteUbergraph_FirstPersonCharacter
+[2018.11.04-12.38.48:030][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018786335210, Size=40
+[2018.11.04-12.38.48:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018794b65990, Size=40, Default__FirstPersonGameMode_C Function /Engine/Transient.REINST_FirstPersonGameMode_C_10:ExecuteUbergraph_FirstPersonGameMode
+[2018.11.04-12.38.48:030][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001878e12f300, Size=64
+[2018.11.04-12.38.48:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187949a9bc0, Size=64, Default__GameOverWidget_C Function /Engine/Transient.REINST_GameOverWidget_C_0:ExecuteUbergraph_GameOverWidget
+[2018.11.04-12.38.48:030][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018794b3b880, Size=72
+[2018.11.04-12.38.48:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018794a0dd50, Size=72, Default__MonsterBar_C Function /Engine/Transient.REINST_MonsterBar_C_1:ExecuteUbergraph_MonsterBar
+[2018.11.04-12.38.48:030][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000187f7516a20, Size=104
+[2018.11.04-12.38.48:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187f7516a20, Size=104, Default__RoomWidget_C Function /Engine/Transient.REINST_RoomWidget_C_2:ExecuteUbergraph_RoomWidget
+[2018.11.04-12.38.48:124][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001878e82f700, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.11.04-12.38.48:125][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001878e88c560, Size=224, Default__HallSegment_Base_C Function /Game/FirstPersonBP/Blueprints/HallSegment_Base.HallSegment_Base_C:ExecuteUbergraph_HallSegment_Base
+[2018.11.04-12.38.48:142][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001878e8c4c00, Size=464, Default__HallSegment_Door_C Function /Game/FirstPersonBP/Blueprints/HallSegment_Door.HallSegment_Door_C:ExecuteUbergraph_HallSegment_Door
+[2018.11.04-12.38.48:144][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001878e8c4a00, Size=496, Default__Monster_C Function /Game/FirstPersonBP/Blueprints/Monster.Monster_C:ExecuteUbergraph_Monster
+[2018.11.04-12.38.48:144][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018786198480, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.11.04-12.38.48:146][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001878e7e34c0, Size=144, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.11.04-12.38.48:148][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001878e7e7dd0, Size=40, Default__FirstPersonGameMode_C Function /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C:ExecuteUbergraph_FirstPersonGameMode
+[2018.11.04-12.38.48:149][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001878e7f9a80, Size=64, Default__GameOverWidget_C Function /Game/GameOverWidget.GameOverWidget_C:ExecuteUbergraph_GameOverWidget
+[2018.11.04-12.38.48:150][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001878e787ba0, Size=72, Default__MonsterBar_C Function /Game/MonsterBar.MonsterBar_C:ExecuteUbergraph_MonsterBar
+[2018.11.04-12.38.48:152][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001878e77c800, Size=104, Default__RoomWidget_C Function /Game/RoomWidget.RoomWidget_C:ExecuteUbergraph_RoomWidget
+[2018.11.04-12.38.48:404][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.11.04-12.38.48:404][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.11.04-12.38.48:404][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2018.11.04-12.38.48:406][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.11.04-12.38.48:407][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.11.04-12.38.48:407][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2018.11.04-12.38.48:407][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.11.04-12.38.48:407][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2018.11.04-12.38.48:408][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.11.04-12.38.48:408][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2018.11.04-12.38.48:441][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.11.04-12.38.48:441][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.11.04-12.38.48:442][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2018.11.04-12.38.48:442][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.11.04-12.38.49:268][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [6.806228ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.11.04-12.38.49:295][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.04-12.38.50:070][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.04-12.38.50:216][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000187eed827f0, Size=72
+[2018.11.04-12.38.50:219][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001878e99da80, Size=144
+[2018.11.04-12.38.50:220][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018794b65990, Size=40
+[2018.11.04-12.38.50:220][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018794a1af60, Size=224
+[2018.11.04-12.38.50:220][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018794b48400, Size=464
+[2018.11.04-12.38.50:220][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000187949a9bc0, Size=64
+[2018.11.04-12.38.50:220][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018794b48200, Size=496
+[2018.11.04-12.38.50:220][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018794a0dd50, Size=72
+[2018.11.04-12.38.50:220][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000187f7516a20, Size=104
+[2018.11.04-12.38.50:220][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000187f751b5f0, Size=52
+[2018.11.04-12.38.50:220][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018794b52b00, Size=256
+[2018.11.04-12.38.50:257][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.04-12.38.50:356][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 97.966ms to complete.
+[2018.11.04-12.38.50:356][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 3.610
+[2018.11.04-12.38.53:360][  0]LogCollectionManager: Loaded 0 collections in 0.001478 seconds
+[2018.11.04-12.38.54:363][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Saved/Collections/' took 0.01s
+[2018.11.04-12.38.54:363][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Developers/Gabe/Collections/' took 0.01s
+[2018.11.04-12.38.54:363][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Collections/' took 0.01s
+[2018.11.04-12.38.54:364][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.04-12.38.54:475][  0]LogContentBrowser: Native class hierarchy populated in 0.0292 seconds. Added 2487 classes and 565 folders.
+[2018.11.04-12.38.54:773][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.04-12.38.57:421][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.04-12.38.57:479][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.04-12.38.58:101][  0]LogSlate: Took 0.024613 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.04-12.38.58:125][  0]LogSlate: Took 0.021981 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.04-12.38.58:271][  0]LogSlate: Took 0.021887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.04-12.38.58:801][  0]LogRenderer: Reallocating scene render targets to support 760x388 Format 10 NumSamples 1 (Frame:1).
+[2018.11.04-12.38.59:733][  0]LogSlate: Took 0.019929 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.04-12.39.00:746][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.04-12.39.00:746][  0]LogLoad: (Engine Initialization) Total time: 37.57 seconds
+[2018.11.04-12.39.00:746][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.04-12.39.00:840][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.04-12.39.01:402][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.04-12.39.01:494][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.04-12.39.02:058][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/' took 1.06s
+[2018.11.04-12.39.02:560][  2]LogSlate: Took 0.000410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.04-12.39.02:610][  3]LogAssetRegistry: Asset discovery search completed in 32.1604 seconds
+[2018.11.04-12.39.02:618][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.04-12.39.02:618][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000089 seconds (updated 0 objects)
+[2018.11.04-12.39.18:331][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.39.18:398][843]LogSlate: Window 'Message Log' being destroyed
+[2018.11.04-12.39.18:401][843]LogSlate: Window 'Message Log' being destroyed
+[2018.11.04-12.39.19:894][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.39.50:012][906]LogFactory: FactoryCreateFile: StaticMesh with ReimportFbxAnimSequenceFactory (0 0 C:/Users/Gabe/Documents/Spookjam/banner.fbx)
+[2018.11.04-12.39.50:186][906]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.11.04-12.39.50:186][906]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.11.04-12.39.50:186][906]LogFbx: ItemName: Model, ItemCount : 1
+[2018.11.04-12.39.50:186][906]LogFbx: ItemName: Material, ItemCount : 2
+[2018.11.04-12.39.50:194][906]LogFbx: Loading FBX Scene from C:/Users/Gabe/Documents/Spookjam/banner.fbx
+[2018.11.04-12.39.50:205][906]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.04-12.39.55:564][906]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.04-12.39.55:637][906]LogFbx: Loading FBX Scene from C:/Users/Gabe/Documents/Spookjam/banner.fbx
+[2018.11.04-12.39.55:644][906]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.04-12.39.55:682][906]LogFbx: Warning: Triangulating static mesh Cylinder.001
+[2018.11.04-12.39.55:756][906]LogStaticMesh: Building static mesh banner...
+[2018.11.04-12.39.55:795][906]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Meshes/banner.banner
+[2018.11.04-12.39.55:987][906]LogFactory: FactoryCreateFile: StaticMesh with ReimportFbxAnimSequenceFactory (0 0 C:/Users/Gabe/Documents/Spookjam/candle.fbx)
+[2018.11.04-12.39.56:002][906]LogFbx: Loading FBX Scene from C:/Users/Gabe/Documents/Spookjam/candle.fbx
+[2018.11.04-12.39.56:010][906]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.04-12.39.56:010][906]LogFbx: Warning: Triangulating static mesh Cylinder
+[2018.11.04-12.39.56:074][906]LogStaticMesh: Building static mesh candle...
+[2018.11.04-12.39.56:098][906]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/candle.candle
+[2018.11.04-12.39.56:131][906]LogFactory: FactoryCreateFile: StaticMesh with ReimportFbxAnimSequenceFactory (0 0 C:/Users/Gabe/Documents/Spookjam/candlestick.fbx)
+[2018.11.04-12.39.56:144][906]LogFbx: Loading FBX Scene from C:/Users/Gabe/Documents/Spookjam/candlestick.fbx
+[2018.11.04-12.39.56:152][906]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.04-12.39.56:152][906]LogFbx: Warning: Triangulating static mesh Plane.001
+[2018.11.04-12.39.56:194][906]LogStaticMesh: Building static mesh candlestick...
+[2018.11.04-12.39.56:207][906]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/candlestick.candlestick
+[2018.11.04-12.39.56:238][906]LogFactory: FactoryCreateFile: StaticMesh with ReimportFbxAnimSequenceFactory (0 0 C:/Users/Gabe/Documents/Spookjam/door.fbx)
+[2018.11.04-12.39.56:251][906]LogFbx: Loading FBX Scene from C:/Users/Gabe/Documents/Spookjam/door.fbx
+[2018.11.04-12.39.56:258][906]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.04-12.39.56:259][906]LogFbx: Warning: Triangulating static mesh Plane.002
+[2018.11.04-12.39.56:266][906]LogStaticMesh: Building static mesh door...
+[2018.11.04-12.39.56:269][906]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/door.door
+[2018.11.04-12.39.56:293][906]LogFactory: FactoryCreateFile: StaticMesh with ReimportFbxAnimSequenceFactory (0 0 C:/Users/Gabe/Documents/Spookjam/hallway.fbx)
+[2018.11.04-12.39.56:305][906]LogFbx: Loading FBX Scene from C:/Users/Gabe/Documents/Spookjam/hallway.fbx
+[2018.11.04-12.39.56:313][906]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.04-12.39.56:313][906]LogFbx: Warning: Triangulating static mesh Plane
+[2018.11.04-12.39.56:314][906]LogStaticMesh: Building static mesh hallway...
+[2018.11.04-12.39.56:316][906]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/hallway.hallway
+[2018.11.04-12.39.56:340][906]LogFactory: FactoryCreateFile: StaticMesh with ReimportFbxAnimSequenceFactory (0 0 C:/Users/Gabe/Documents/Spookjam/hallway_door.fbx)
+[2018.11.04-12.39.56:352][906]LogFbx: Loading FBX Scene from C:/Users/Gabe/Documents/Spookjam/hallway_door.fbx
+[2018.11.04-12.39.56:359][906]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.04-12.39.56:359][906]LogFbx: Warning: Triangulating static mesh Plane
+[2018.11.04-12.39.56:361][906]LogStaticMesh: Building static mesh hallway_door...
+[2018.11.04-12.39.56:363][906]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/hallway_door.hallway_door
+[2018.11.04-12.39.56:392][906]LogFactory: FactoryCreateFile: StaticMesh with ReimportFbxAnimSequenceFactory (0 0 C:/Users/Gabe/Documents/Spookjam/hand.fbx)
+[2018.11.04-12.39.56:409][906]LogFbx: Loading FBX Scene from C:/Users/Gabe/Documents/Spookjam/hand.fbx
+[2018.11.04-12.39.56:480][906]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.04-12.39.56:483][906]LogFbx: Warning: Triangulating static mesh Hand
+[2018.11.04-12.39.58:116][906]LogStaticMesh: Building static mesh hand...
+[2018.11.04-12.39.58:630][906]LogStaticMesh: Built static mesh [0.52s] /Game/Geometry/Meshes/hand.hand
+[2018.11.04-12.39.58:905][906]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.11.04-12.39.59:074][906]LogFactory: FactoryCreateFile: StaticMesh with ReimportFbxAnimSequenceFactory (0 0 C:/Users/Gabe/Documents/Spookjam/plant pot.fbx)
+[2018.11.04-12.39.59:090][906]LogFbx: Loading FBX Scene from C:/Users/Gabe/Documents/Spookjam/plant pot.fbx
+[2018.11.04-12.39.59:098][906]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.04-12.39.59:098][906]LogFbx: Warning: Triangulating static mesh Cylinder.002
+[2018.11.04-12.39.59:102][906]LogStaticMesh: Building static mesh plant_pot...
+[2018.11.04-12.39.59:106][906]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/plant_pot.plant_pot
+[2018.11.04-12.39.59:130][906]LogFactory: FactoryCreateFile: StaticMesh with ReimportFbxAnimSequenceFactory (0 0 C:/Users/Gabe/Documents/Spookjam/plantpot.fbx)
+[2018.11.04-12.39.59:141][906]LogFbx: Loading FBX Scene from C:/Users/Gabe/Documents/Spookjam/plantpot.fbx
+[2018.11.04-12.39.59:148][906]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.04-12.39.59:149][906]LogFbx: Warning: Triangulating static mesh Cylinder.002
+[2018.11.04-12.39.59:153][906]LogStaticMesh: Building static mesh plantpot...
+[2018.11.04-12.39.59:157][906]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/plantpot.plantpot
+[2018.11.04-12.39.59:184][906]LogFactory: FactoryCreateFile: StaticMesh with ReimportFbxAnimSequenceFactory (0 0 C:/Users/Gabe/Documents/Spookjam/portrait.fbx)
+[2018.11.04-12.39.59:197][906]LogFbx: Loading FBX Scene from C:/Users/Gabe/Documents/Spookjam/portrait.fbx
+[2018.11.04-12.39.59:204][906]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.04-12.39.59:204][906]LogFbx: Warning: Triangulating static mesh Plane.002
+[2018.11.04-12.39.59:209][906]LogStaticMesh: Building static mesh portrait...
+[2018.11.04-12.39.59:210][906]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/portrait.portrait
+[2018.11.04-12.39.59:235][906]LogFactory: FactoryCreateFile: StaticMesh with ReimportFbxAnimSequenceFactory (0 0 C:/Users/Gabe/Documents/Spookjam/table.fbx)
+[2018.11.04-12.39.59:248][906]LogFbx: Loading FBX Scene from C:/Users/Gabe/Documents/Spookjam/table.fbx
+[2018.11.04-12.39.59:255][906]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.04-12.39.59:255][906]LogFbx: Warning: Triangulating static mesh Cube
+[2018.11.04-12.39.59:259][906]LogStaticMesh: Building static mesh table...
+[2018.11.04-12.39.59:269][906]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/table.table
+[2018.11.04-12.39.59:323][906]LogFactory: FactoryCreateFile: StaticMesh with ReimportFbxAnimSequenceFactory (0 0 C:/Users/Gabe/Documents/Spookjam/tree.fbx)
+[2018.11.04-12.39.59:362][906]LogFbx: Loading FBX Scene from C:/Users/Gabe/Documents/Spookjam/tree.fbx
+[2018.11.04-12.39.59:486][906]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.04-12.39.59:494][906]LogFbx: Warning: Triangulating static mesh tree
+[2018.11.04-12.40.07:552][906]LogStaticMesh: Building static mesh tree...
+[2018.11.04-12.40.10:137][906]LogStaticMesh: Built static mesh [2.59s] /Game/Geometry/Meshes/tree.tree
+[2018.11.04-12.40.14:926][ 26]LogSlate: Window 'Message Log' being destroyed
+[2018.11.04-12.40.14:930][ 26]LogSlate: Window 'Message Log' being destroyed
+[2018.11.04-12.40.56:816][786]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Gabe/Documents/Spookjam/creepy_wood_wall_ambient_occlusion.png)
+[2018.11.04-12.40.57:206][786]LogTexture: Display: Building textures: creepy_wood_wall_ambient_occlusion (AutoDXT, 2048X2048)
+[2018.11.04-12.41.02:504][786]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Gabe/Documents/Spookjam/creepy_wood_wall_base_color.png)
+[2018.11.04-12.41.03:370][786]LogTexture: Display: Building textures: creepy_wood_wall_base_color (AutoDXT, 2048X2048)
+[2018.11.04-12.41.08:555][786]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Gabe/Documents/Spookjam/creepy_wood_wall_height.png)
+[2018.11.04-12.41.08:946][786]LogTexture: Display: Building textures: creepy_wood_wall_height (AutoDXT, 2048X2048)
+[2018.11.04-12.41.11:887][786]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Gabe/Documents/Spookjam/creepy_wood_wall_normal.png)
+[2018.11.04-12.41.12:740][786]LogTexture: Display: Building textures: creepy_wood_wall_normal (BC5, 2048X2048)
+[2018.11.04-12.41.13:690][786]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Gabe/Documents/Spookjam/creepy_wood_wall_roughness.png)
+[2018.11.04-12.41.14:165][786]LogTexture: Display: Building textures: creepy_wood_wall_roughness (AutoDXT, 2048X2048)
+[2018.11.04-12.41.20:670][917]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.11.04-12.41.21:875][917]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.11.04-12.41.21:894][917]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.04-12.41.21:894][917]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.04-12.41.21:894][917]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.04-12.41.22:030][917]LogSlate: Took 0.086479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.04-12.41.24:633][972]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.04-12.41.24:680][974]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.04-12.41.24:706][974]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.04-12.41.24:868][976]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.04-12.41.24:906][977]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.04-12.41.24:966][979]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.04-12.41.25:123][981]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.04-12.41.25:379][985]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.04-12.41.25:429][987]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.04-12.41.25:489][990]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.04-12.41.25:726][992]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.04-12.41.25:885][994]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.04-12.41.26:023][996]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.04-12.41.27:604][ 12]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.04-12.41.27:604][ 12]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.04-12.41.27:604][ 12]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.04-12.41.27:604][ 12]MaterialEditorStats: Texture samplers: 2/16
+[2018.11.04-12.41.32:817][300]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.11.04-12.41.32:826][300]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.04-12.41.32:826][300]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.04-12.41.32:826][300]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.04-12.41.32:826][300]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.04-12.41.32:859][300]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.04-12.41.33:103][301]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.04-12.41.33:103][301]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.04-12.41.33:103][301]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.04-12.41.33:263][302]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.04-12.41.33:263][302]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.04-12.41.33:288][303]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.04-12.41.33:450][303]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.04-12.41.33:658][306]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.04-12.41.33:718][308]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.04-12.41.33:740][309]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.04-12.41.34:001][311]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.04-12.41.34:156][313]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.04-12.41.34:212][313]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.04-12.41.34:797][343]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.04-12.41.34:866][346]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.11.04-12.41.34:881][346]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.04-12.41.34:895][346]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.04-12.41.34:962][347]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.04-12.41.35:189][349]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.04-12.41.35:222][350]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.04-12.41.35:248][351]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.04-12.41.35:438][352]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.04-12.41.35:438][352]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.04-12.41.35:458][353]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.04-12.41.36:096][386]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.04-12.41.36:135][388]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.04-12.41.36:318][391]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.04-12.41.36:431][392]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.04-12.41.36:590][394]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.04-12.41.36:757][394]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.04-12.41.36:839][396]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.04-12.41.36:942][398]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.04-12.41.37:536][426]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.11.04-12.41.37:552][426]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.04-12.41.37:556][426]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.04-12.41.37:582][426]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.04-12.41.37:587][426]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.04-12.41.37:646][427]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.04-12.41.37:761][428]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.04-12.41.37:911][430]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.04-12.41.37:944][431]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.04-12.41.38:037][432]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.04-12.41.38:178][434]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.04-12.41.38:178][434]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.04-12.41.38:270][435]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.04-12.41.38:404][437]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.04-12.41.38:405][437]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.04-12.41.38:651][439]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.04-12.41.38:724][442]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.04-12.41.39:430][480]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.04-12.41.39:890][504]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.11.04-12.41.39:911][504]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.04-12.41.39:958][505]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.04-12.41.40:043][507]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.04-12.41.40:105][508]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.04-12.41.40:310][510]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.04-12.41.40:343][511]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.04-12.41.40:395][512]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.04-12.41.40:572][513]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.04-12.41.40:596][514]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.04-12.41.40:613][515]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.04-12.41.41:219][545]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.04-12.41.41:239][546]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.04-12.41.41:240][546]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.04-12.41.41:559][552]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.04-12.41.41:688][553]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.04-12.41.41:794][555]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.04-12.41.42:037][557]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.04-12.41.42:070][559]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.04-12.41.42:219][560]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.04-12.41.42:446][562]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.04-12.41.42:481][563]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.04-12.41.42:590][566]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.11.04-12.41.42:590][566]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.11.04-12.41.42:590][566]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.11.04-12.41.42:590][566]MaterialEditorStats: Texture samplers: 4/16
+[2018.11.04-12.41.42:590][566]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.04-12.41.44:339][651]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.11.04-12.41.44:348][651]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.04-12.41.44:348][651]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.04-12.41.44:349][651]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.04-12.41.44:349][651]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.04-12.41.44:386][651]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.04-12.41.44:391][651]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.04-12.41.44:395][651]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.04-12.41.44:624][652]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.04-12.41.44:624][652]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.04-12.41.44:664][653]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.04-12.41.44:803][654]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.04-12.41.44:852][655]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.04-12.41.44:875][656]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.04-12.41.45:022][658]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.04-12.41.45:266][660]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.04-12.41.45:289][661]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.04-12.41.45:352][663]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.04-12.41.45:953][665]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.04-12.41.45:953][665]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.04-12.41.45:953][665]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.04-12.41.46:718][705]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.11.04-12.41.46:737][705]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.04-12.41.47:366][706]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.04-12.41.47:366][706]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.04-12.41.47:366][706]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.04-12.41.47:366][706]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.04-12.41.47:366][706]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.04-12.41.48:008][707]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.04-12.41.48:008][707]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.04-12.41.48:008][707]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.04-12.41.48:008][707]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.04-12.41.48:008][707]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.04-12.41.48:976][753]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.04-12.41.48:976][753]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.04-12.41.48:976][753]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.04-12.41.49:540][754]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.04-12.41.49:574][754]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.04-12.41.49:574][754]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.04-12.41.49:574][754]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.04-12.41.50:207][756]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.04-12.41.50:207][756]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.04-12.41.50:207][756]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.04-12.41.50:550][772]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.04-12.41.50:599][773]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.11.04-12.41.50:609][773]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.11.04-12.41.50:650][773]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.04-12.41.50:654][773]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.04-12.41.50:658][773]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.04-12.41.50:663][773]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.11.04-12.41.50:785][774]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.04-12.41.50:866][775]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.04-12.41.50:923][776]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.04-12.41.51:036][777]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.04-12.41.51:164][779]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.04-12.41.51:199][780]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.04-12.41.51:289][782]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.04-12.41.51:424][784]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.04-12.41.51:471][786]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.04-12.41.51:543][787]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.04-12.41.51:799][788]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.04-12.41.51:887][790]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.04-12.41.51:971][793]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.04-12.41.52:227][795]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.04-12.41.52:387][803]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.04-12.41.52:928][830]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.04-12.41.53:079][837]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.11.04-12.41.53:096][837]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.11.04-12.41.53:167][838]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.04-12.41.53:278][840]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.04-12.41.53:312][841]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.04-12.41.53:506][842]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.04-12.41.53:565][843]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.04-12.41.53:611][844]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.04-12.41.53:753][845]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.04-12.41.53:882][846]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.04-12.41.53:944][848]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.04-12.41.54:468][875]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.04-12.41.54:550][878]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.04-12.41.54:649][881]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.04-12.41.54:784][882]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.04-12.41.54:837][884]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.04-12.41.54:923][886]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.04-12.41.55:074][888]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.04-12.41.55:302][890]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.04-12.41.55:357][891]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.04-12.41.55:436][894]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.04-12.41.55:992][920]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.11.04-12.41.56:004][920]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.11.04-12.41.56:044][920]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.04-12.41.56:048][920]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.04-12.41.56:053][920]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.04-12.41.56:057][920]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.11.04-12.41.56:062][920]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.11.04-12.41.56:066][920]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.04-12.41.56:263][921]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.04-12.41.56:333][923]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.04-12.41.56:358][924]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.04-12.41.56:533][925]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.04-12.41.56:582][927]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.04-12.41.56:645][929]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.04-12.41.56:769][930]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.04-12.41.56:835][931]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.04-12.41.56:882][932]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.04-12.41.57:123][933]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.04-12.41.57:453][950]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.04-12.41.57:746][965]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.04-12.41.58:049][980]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.11.04-12.41.58:067][980]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.11.04-12.41.58:189][981]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.04-12.41.58:260][983]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.04-12.41.58:400][986]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.04-12.41.58:539][987]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.04-12.41.58:575][988]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.04-12.41.58:739][989]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.04-12.41.58:863][990]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.04-12.41.58:951][991]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.04-12.41.59:161][  2]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.04-12.41.59:781][ 32]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.04-12.41.59:805][ 33]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.04-12.41.59:858][ 35]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.04-12.42.00:066][ 35]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.04-12.42.00:076][ 35]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.04-12.42.00:085][ 35]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.04-12.42.00:260][ 35]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.04-12.42.00:295][ 36]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.04-12.42.00:317][ 37]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.04-12.42.00:573][ 38]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.04-12.42.00:741][ 40]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.04-12.42.00:741][ 40]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.04-12.42.01:001][ 42]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.04-12.42.01:041][ 44]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.04-12.42.01:683][ 73]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.04-12.42.01:823][ 74]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.04-12.42.01:889][ 76]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.04-12.42.01:977][ 77]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.11.04-12.42.01:977][ 77]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 187 instructions
+[2018.11.04-12.42.01:977][ 77]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.11.04-12.42.01:977][ 77]MaterialEditorStats: Texture samplers: 6/16
+[2018.11.04-12.42.01:977][ 77]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.04-12.42.04:428][205]LogMaterialEditor: Applying material Floor
+[2018.11.04-12.42.04:983][205]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.11.04-12.42.05:014][205]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.04-12.42.05:014][205]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.04-12.42.05:014][205]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.04-12.42.05:042][205]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.11.04-12.42.05:062][205]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.11.04-12.42.05:122][205]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Floor, compiling. 
+[2018.11.04-12.42.06:708][205]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.04-12.42.06:708][205]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.04-12.42.06:708][205]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.04-12.42.06:708][205]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.04-12.42.06:708][205]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.04-12.42.06:708][205]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.04-12.42.06:708][205]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.04-12.42.06:708][205]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.04-12.42.06:708][205]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.04-12.42.06:708][205]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.04-12.42.06:708][205]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.04-12.42.06:708][205]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.04-12.42.06:708][205]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.04-12.42.06:708][205]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.04-12.42.06:708][205]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.04-12.42.06:708][205]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.04-12.42.06:708][205]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.04-12.42.06:733][205]TextureStreamingBuild: Display: Compiling optional shaders took 1.644 seconds.
+[2018.11.04-12.42.08:215][253]LogMaterialEditor: Saving and Compiling material Floor
+[2018.11.04-12.42.09:905][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Materials/Floor" FILE="C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Materials/Floor.uasset" SILENT=true
+[2018.11.04-12.42.09:996][253]LogSavePackage: Save=63.78ms
+[2018.11.04-12.42.09:996][253]LogSavePackage: Moving 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Saved/Floor7B9E01684291BCA28E33E8BE522AC6CF.tmp' to 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Materials/Floor.uasset'
+[2018.11.04-12.42.10:003][253]LogSavePackage: Display: Finished SavePackage C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Materials/Floor.uasset
+[2018.11.04-12.42.10:011][253]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.11.04-12.42.10:011][253]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 187 instructions
+[2018.11.04-12.42.10:011][253]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.11.04-12.42.10:011][253]MaterialEditorStats: Texture samplers: 7/16
+[2018.11.04-12.42.10:011][253]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.04-12.42.11:955][336]LogSlate: Window 'Floor' being destroyed
+[2018.11.04-12.42.11:958][336]LogSlate: Window 'Floor' being destroyed
+[2018.11.04-12.42.22:576][846]LogRenderer: Reallocating scene render targets to support 888x620 Format 10 NumSamples 1 (Frame:1).
+[2018.11.04-12.42.32:984][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.42.42:496][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.42.42:791][712]LogRenderer: Reallocating scene render targets to support 1144x708 Format 10 NumSamples 1 (Frame:916).
+[2018.11.04-12.42.46:632][932]LogSlate: Window 'banner*' being destroyed
+[2018.11.04-12.42.58:781][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/banner" FILE="C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/banner.uasset" SILENT=true
+[2018.11.04-12.42.58:817][538]LogSavePackage: Save=27.58ms
+[2018.11.04-12.42.58:817][538]LogSavePackage: Moving 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Saved/bannerD317B9994CA0ABEB321258917BA6478E.tmp' to 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/banner.uasset'
+[2018.11.04-12.42.58:821][538]LogSavePackage: Display: Finished SavePackage C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/banner.uasset
+[2018.11.04-12.43.00:446][626]LogSlate: Window 'banner' being destroyed
+[2018.11.04-12.43.08:189][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/candle" FILE="C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/candle.uasset" SILENT=true
+[2018.11.04-12.43.08:210][993]LogSavePackage: Save=17.91ms
+[2018.11.04-12.43.08:210][993]LogSavePackage: Moving 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Saved/candle81077E6B4B1080DF9080E9BADBE7C62E.tmp' to 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/candle.uasset'
+[2018.11.04-12.43.08:215][993]LogSavePackage: Display: Finished SavePackage C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/candle.uasset
+[2018.11.04-12.43.09:320][ 58]LogSlate: Window 'candle' being destroyed
+[2018.11.04-12.43.09:323][ 58]LogSlate: Window 'candle' being destroyed
+[2018.11.04-12.43.19:029][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.43.21:683][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.43.24:724][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/candlestick" FILE="C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/candlestick.uasset" SILENT=true
+[2018.11.04-12.43.24:747][843]LogSavePackage: Save=18.13ms
+[2018.11.04-12.43.24:747][843]LogSavePackage: Moving 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Saved/candlestickC8113AC746A0167F90DD608FB5A9D8D6.tmp' to 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/candlestick.uasset'
+[2018.11.04-12.43.24:752][843]LogSavePackage: Display: Finished SavePackage C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/candlestick.uasset
+[2018.11.04-12.43.25:967][909]LogSlate: Window 'candlestick' being destroyed
+[2018.11.04-12.43.25:973][909]LogSlate: Window 'candlestick' being destroyed
+[2018.11.04-12.43.32:262][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.43.42:345][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.43.49:209][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/door" FILE="C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/door.uasset" SILENT=true
+[2018.11.04-12.43.49:233][ 78]LogSavePackage: Save=20.73ms
+[2018.11.04-12.43.49:233][ 78]LogSavePackage: Moving 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Saved/doorBF0ACE3947A51A50617A50835914D321.tmp' to 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/door.uasset'
+[2018.11.04-12.43.49:237][ 78]LogSavePackage: Display: Finished SavePackage C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/door.uasset
+[2018.11.04-12.43.50:397][142]LogSlate: Window 'door' being destroyed
+[2018.11.04-12.43.50:403][142]LogSlate: Window 'door' being destroyed
+[2018.11.04-12.44.02:326][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.44.19:019][531]Cmd: TRANSACTION UNDO
+[2018.11.04-12.44.19:019][531]LogEditorTransaction: Undo Staticmesh editor: Material changed
+[2018.11.04-12.44.27:227][868]LogEditorTransaction: Undo Staticmesh editor: Material changed
+[2018.11.04-12.44.28:773][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.44.32:910][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.44.33:013][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/hallway" FILE="C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/hallway.uasset" SILENT=true
+[2018.11.04-12.44.33:036][153]LogSavePackage: Save=20.04ms
+[2018.11.04-12.44.33:036][153]LogSavePackage: Moving 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Saved/hallway64D2E8E8432C84CA1C0AC8B8D58A46BF.tmp' to 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/hallway.uasset'
+[2018.11.04-12.44.33:041][153]LogSavePackage: Display: Finished SavePackage C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/hallway.uasset
+[2018.11.04-12.44.33:924][203]LogSlate: Window 'hallway' being destroyed
+[2018.11.04-12.44.33:928][203]LogSlate: Window 'hallway' being destroyed
+[2018.11.04-12.44.40:510][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.44.44:791][717]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. 
+[2018.11.04-12.44.44:906][717]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.11.04-12.44.45:015][717]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.11.04-12.44.45:053][717]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.11.04-12.44.45:053][717]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.11.04-12.44.45:053][717]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.11.04-12.44.45:068][717]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2018.11.04-12.44.45:072][717]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.11.04-12.44.45:076][717]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.11.04-12.44.45:081][717]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_6, compiling. 
+[2018.11.04-12.44.45:084][717]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2018.11.04-12.44.45:537][717]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.11.04-12.44.45:554][717]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.11.04-12.44.45:571][717]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.11.04-12.44.45:740][717]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.11.04-12.44.45:861][717]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.11.04-12.44.45:861][717]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.11.04-12.44.45:878][717]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.11.04-12.44.46:055][717]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.11.04-12.44.46:090][717]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.11.04-12.44.46:107][717]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.11.04-12.44.46:211][717]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.11.04-12.44.46:265][717]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.11.04-12.44.46:384][717]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.11.04-12.44.46:402][717]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.11.04-12.44.46:489][717]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.11.04-12.44.46:543][717]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.04-12.44.46:647][717]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.04-12.44.46:665][717]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.04-12.44.46:700][717]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.11.04-12.44.46:803][717]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.11.04-12.44.46:821][717]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.11.04-12.44.46:873][717]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.11.04-12.44.46:979][717]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.11.04-12.44.46:997][717]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.04-12.44.47:083][717]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.11.04-12.44.47:167][717]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.04-12.44.47:184][717]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.11.04-12.44.47:201][717]LogSlate: Window 'Warning: Editing Default Material' being destroyed
+[2018.11.04-12.44.47:274][717]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.11.04-12.44.47:473][719]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.11.04-12.44.47:495][720]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.11.04-12.44.47:680][722]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.11.04-12.44.47:775][724]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.11.04-12.44.47:775][724]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.04-12.44.47:874][725]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.04-12.44.47:938][726]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.11.04-12.44.48:201][728]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.04-12.44.48:342][730]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.04-12.44.48:418][732]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.04-12.44.48:615][734]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.04-12.44.48:732][737]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.04-12.44.48:966][741]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.04-12.44.49:024][742]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.04-12.44.49:193][743]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.04-12.44.49:393][746]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.04-12.44.49:502][749]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.04-12.44.49:585][752]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.04-12.44.49:677][754]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.04-12.44.49:757][755]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.04-12.44.49:875][757]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.04-12.44.49:975][758]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.04-12.44.50:001][759]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.04-12.44.50:152][760]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.04-12.44.50:274][761]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.04-12.44.50:339][762]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.04-12.44.50:425][763]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.04-12.44.50:513][763]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.04-12.44.50:563][765]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.04-12.44.50:685][766]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.04-12.44.50:726][767]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.04-12.44.50:853][768]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.04-12.44.50:911][768]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.04-12.44.50:999][770]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.04-12.44.51:063][771]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.04-12.44.51:224][772]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.04-12.44.51:224][772]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.04-12.44.59:610][182]Cmd: TRANSACTION UNDO
+[2018.11.04-12.44.59:610][182]LogEditorTransaction: Undo Staticmesh editor: Material changed
+[2018.11.04-12.45.04:967][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/hallway_door" FILE="C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/hallway_door.uasset" SILENT=true
+[2018.11.04-12.45.04:995][440]LogSavePackage: Save=19.04ms
+[2018.11.04-12.45.04:995][440]LogSavePackage: Moving 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Saved/hallway_doorC02E8697450C9766C1A6F3835049CDDE.tmp' to 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/hallway_door.uasset'
+[2018.11.04-12.45.04:999][440]LogSavePackage: Display: Finished SavePackage C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/hallway_door.uasset
+[2018.11.04-12.45.07:351][576]LogSlate: Window 'hallway_door' being destroyed
+[2018.11.04-12.45.07:354][576]LogSlate: Window 'hallway_door' being destroyed
+[2018.11.04-12.45.14:573][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.45.39:958][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.45.41:827][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/hand" FILE="C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/hand.uasset" SILENT=true
+[2018.11.04-12.45.41:854][243]LogSavePackage: Save=21.73ms
+[2018.11.04-12.45.41:854][243]LogSavePackage: Moving 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Saved/hand6889FE06407D806FD424088C6A31FF3A.tmp' to 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/hand.uasset'
+[2018.11.04-12.45.41:858][243]LogSavePackage: Display: Finished SavePackage C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/hand.uasset
+[2018.11.04-12.45.42:882][302]LogSlate: Window 'hand' being destroyed
+[2018.11.04-12.45.42:886][302]LogSlate: Window 'hand' being destroyed
+[2018.11.04-12.45.48:807][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.45.52:707][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.45.58:709][946]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.04-12.45.58:739][946]LogSlate: Window 'plantpot*' being destroyed
+[2018.11.04-12.46.07:448][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.46.13:696][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.46.17:823][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.46.25:159][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.46.32:501][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.46.32:628][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/plant_pot" FILE="C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/plant_pot.uasset" SILENT=true
+[2018.11.04-12.46.32:650][560]LogSavePackage: Save=18.08ms
+[2018.11.04-12.46.32:650][560]LogSavePackage: Moving 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Saved/plant_pot2B322E6B49DDE800C7213C910AD50ABC.tmp' to 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/plant_pot.uasset'
+[2018.11.04-12.46.32:654][560]LogSavePackage: Display: Finished SavePackage C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/plant_pot.uasset
+[2018.11.04-12.46.33:947][638]LogSlate: Window 'plant_pot' being destroyed
+[2018.11.04-12.46.33:956][638]LogSlate: Window 'plant_pot' being destroyed
+[2018.11.04-12.46.45:310][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/portrait" FILE="C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/portrait.uasset" SILENT=true
+[2018.11.04-12.46.45:333][262]LogSavePackage: Save=20.12ms
+[2018.11.04-12.46.45:333][262]LogSavePackage: Moving 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Saved/portraitD6881ABF459123B1BF6F078B7DE1040E.tmp' to 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/portrait.uasset'
+[2018.11.04-12.46.45:338][262]LogSavePackage: Display: Finished SavePackage C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/portrait.uasset
+[2018.11.04-12.46.46:554][334]LogSlate: Window 'portrait' being destroyed
+[2018.11.04-12.46.46:563][334]LogSlate: Window 'portrait' being destroyed
+[2018.11.04-12.46.54:598][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.46.54:710][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/table" FILE="C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/table.uasset" SILENT=true
+[2018.11.04-12.46.54:733][777]LogSavePackage: Save=20.28ms
+[2018.11.04-12.46.54:733][777]LogSavePackage: Moving 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Saved/tableBFFC3D714167E78BD8597A841EA228E9.tmp' to 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/table.uasset'
+[2018.11.04-12.46.54:738][777]LogSavePackage: Display: Finished SavePackage C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/table.uasset
+[2018.11.04-12.46.55:645][831]LogSlate: Window 'table' being destroyed
+[2018.11.04-12.46.55:653][831]LogSlate: Window 'table' being destroyed
+[2018.11.04-12.47.10:885][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-12.47.13:917][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/tree" FILE="C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/tree.uasset" SILENT=true
+[2018.11.04-12.47.13:950][737]LogSavePackage: Save=29.30ms
+[2018.11.04-12.47.13:950][737]LogSavePackage: Moving 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Saved/tree56084488492A834ED69238B200F09334.tmp' to 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/tree.uasset'
+[2018.11.04-12.47.13:955][737]LogSavePackage: Display: Finished SavePackage C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/tree.uasset
+[2018.11.04-12.47.15:239][813]LogSlate: Window 'tree' being destroyed
+[2018.11.04-12.47.15:246][813]LogSlate: Window 'tree' being destroyed
+[2018.11.04-12.47.27:396][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/tree" FILE="C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/tree.uasset" SILENT=true
+[2018.11.04-12.47.27:455][381]LogSavePackage: Save=19.17ms
+[2018.11.04-12.47.27:455][381]LogSavePackage: Moving 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Saved/tree60CD4DFC4362808DD51942B3A8034F2A.tmp' to 'C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/tree.uasset'
+[2018.11.04-12.47.27:459][381]LogSavePackage: Display: Finished SavePackage C:/Users/Gabe/Documents/GitHub/SpookJam2018/HorrorRunner/Content/Geometry/Meshes/tree.uasset
+[2018.11.04-12.47.53:246][379]Cmd: TRANSACTION UNDO
+[2018.11.04-12.47.53:247][379]LogEditorTransaction: Undo Staticmesh editor: Material changed
+[2018.11.04-12.47.54:220][379]Cmd: TRANSACTION UNDO
+[2018.11.04-12.47.54:221][379]LogEditorTransaction: Undo Staticmesh editor: Material changed
+[2018.11.04-12.47.57:309][640]Cmd: TRANSACTION REDO
+[2018.11.04-12.47.57:309][640]LogEditorTransaction: Redo Staticmesh editor: Material changed
+[2018.11.04-12.47.57:540][659]Cmd: TRANSACTION REDO
+[2018.11.04-12.47.57:540][659]LogEditorTransaction: Redo Staticmesh editor: Material changed
